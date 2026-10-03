@@ -28,6 +28,4 @@ npx --yes skills@1.5.22 add 'empiresss/naiwa-skill@naiwa' -g -a qoder-cn -y
 
 把 [SKILL.md](./SKILL.md) 的内容复制到 AI 的 system prompt / 角色设定里即可。
 
-## 来源
 
-奶蛙 IP 档案馆：https://www.naiwa.world/
